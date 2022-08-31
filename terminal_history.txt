@@ -1,0 +1,38 @@
+
+ 1011  conda activate dev
+ 1012  clear
+ 1013  conda install -c conda-forge imbalanced-learn\n
+ 1014  pwd
+ 1015  git clone git@github.com:JakeWheelerGitHub/Week_12_Challenge.git
+ 1016  conda activate dev
+ 1017  git init
+ 1018  git add .
+ 1019  pwd
+ 1020  cd Week_12_Challenge
+ 1021  git add .
+ 1022  git init
+ 1023  git add .
+ 1024  git commit -m "Coding complete"
+ 1025  git status
+ 1026  git push
+ 1027  cd ..
+ 1028  cd ..
+ 1029  pip install tensorflow==1.2.0
+ 1030  cd ..
+ 1031  cd..
+ 1032  pip install tensorflow
+ 1033  conda activate dev
+ 1034  conda activate neuralnets
+ 1035  conda activate dev
+ 1036  conda deactivate
+ 1037  conda activate neuralnets
+ 1038  git init
+ 1039  pwd
+ 1040  cd Fintech
+ 1041  cd Challenges
+ 1042  cd Week_12_Challenge
+ 1043  git init
+ 1044  git add .
+ 1045  git commit -m "Jupyter notebook complete"
+ 1046  git push
+ 1047  pwd
